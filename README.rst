@@ -9,5 +9,4 @@ ccesar
 Sobre
 =====
 
-Projeto que demonstra o uso da criptografia de Cesar. Desenvolvido
-em pascal.
+Projeto que demonstra o uso da criptografia de Cesar. Desenvolvido_ em pascal.
